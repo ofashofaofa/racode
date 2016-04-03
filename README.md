@@ -6,3 +6,4 @@ tools ini dibangun atas 3 komponen utama yaitu : <Br>
 3. ION auth library<br>
 4. template AdminLTE<br>
 5. menu management<br>
+6. (https://belajarphp.net/racode-generator-tools-for-development-2/)
